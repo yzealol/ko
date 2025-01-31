@@ -1,0 +1,14 @@
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\ko\ko\obj\Debug\net8.0\ko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\ko\ko\obj\Debug\net8.0\ko.AssemblyInfoInputs.cache
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\ko\ko\obj\Debug\net8.0\ko.AssemblyInfo.cs
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\ko\ko\obj\Debug\net8.0\ko.csproj.CoreCompileInputs.cache
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\ko\ko\bin\Debug\net8.0\ko.exe
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\ko\ko\bin\Debug\net8.0\ko.deps.json
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\ko\ko\bin\Debug\net8.0\ko.runtimeconfig.json
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\ko\ko\bin\Debug\net8.0\ko.dll
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\ko\ko\bin\Debug\net8.0\ko.pdb
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\ko\ko\obj\Debug\net8.0\ko.dll
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\ko\ko\obj\Debug\net8.0\refint\ko.dll
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\ko\ko\obj\Debug\net8.0\ko.pdb
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\ko\ko\obj\Debug\net8.0\ko.genruntimeconfig.cache
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\ko\ko\obj\Debug\net8.0\ref\ko.dll
