@@ -12,3 +12,4 @@ C:\Users\hg8352\OneDrive - LYSTKOM\Programering\ko\ko\obj\Debug\net8.0\refint\ko
 C:\Users\hg8352\OneDrive - LYSTKOM\Programering\ko\ko\obj\Debug\net8.0\ko.pdb
 C:\Users\hg8352\OneDrive - LYSTKOM\Programering\ko\ko\obj\Debug\net8.0\ko.genruntimeconfig.cache
 C:\Users\hg8352\OneDrive - LYSTKOM\Programering\ko\ko\obj\Debug\net8.0\ref\ko.dll
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\ko\ko\obj\Debug\net8.0\ko.sourcelink.json
